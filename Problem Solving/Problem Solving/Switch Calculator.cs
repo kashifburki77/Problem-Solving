@@ -13,13 +13,14 @@ namespace Problem_Solving
             /* Write a program that Calculates 2 numbers for ( Sum, Subtract, Div, Multiply)
              * using Switch */
 
-            double a = 2;
-            double b = 3;
+            int a = 2;
+            int b = 3;
 
             char operation1 = '+';
             char operation2 = '-';
             char operation3 = '/';
             char operation4 = '*';
+
 
 
             switch(operation1)
